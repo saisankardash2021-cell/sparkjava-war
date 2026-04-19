@@ -1,4 +1,4 @@
-# sparkjava-war-example-Sai - Sample modification
+# sparkjava-war-example-Sai
 Build war with maven and sparkjava framework.
 
 Steps:-
