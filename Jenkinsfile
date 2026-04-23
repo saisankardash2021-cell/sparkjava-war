@@ -1,4 +1,4 @@
-pipeline {                                    // 1  // Defines start of Jenkins pipeline block
+pipeline {                                    // 1  // Defines start of Jenkins pipeline block.
     agent any                                 // Specifies the pipeline can run on any available agent
     environment {                             // 2  // Defines environment variables for the pipeline
         PATH = "/opt/maven/bin:$PATH"         // Adds Maven's path to the system's PATH variable
